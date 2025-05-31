@@ -1,4 +1,4 @@
-# Healthcare Document Classifier 🩺
+# Healthcare Document Summarizer 🩺
 
 This app classifies medical abstracts into condition categories using NLP and machine learning.
 
